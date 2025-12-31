@@ -1,0 +1,9 @@
+{
+  "name": "IELTS Master Pro",
+  "description": "An all-in-one IELTS practice platform featuring real-time AI speaking interviews, automated writing grading, and dynamic reading/listening exercises.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
